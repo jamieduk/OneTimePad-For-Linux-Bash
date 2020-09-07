@@ -7,7 +7,6 @@ Forum
 jnet.forumotion.com
 
 Radio
-
 radio2020.ddns.net
 
 Welcome To J~Net Dynamic Pad For Encrypting / Decrypting With OneTime 2020 Menu
@@ -27,4 +26,3 @@ https://github.com/jamieduk/OneTimePad-For-Linux-Bash
 
 Box Link
 https://app.box.com/s/lbu639i34327scpgmq2g7zjnzs90b8oj
-
