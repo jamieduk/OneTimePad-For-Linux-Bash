@@ -22,6 +22,9 @@ When asked put filename of file you want to encrypt and then you will need to ex
 
 Every file uses a new one time pad so all pads and ciphers should be kept seperate and removed when not required anymore!
 
+Github Link:
+https://github.com/jamieduk/OneTimePad-For-Linux-Bash
+
 Box Link
 https://app.box.com/s/lbu639i34327scpgmq2g7zjnzs90b8oj
 
